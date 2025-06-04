@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Downloads\\game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3D2F7B-505C-45E5-A713-1A5C54F5C3F8}|hello\\hello.vbproj|C:\\Users\\user\\Downloads\\game\\hello\\localgame.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{FB3D2F7B-505C-45E5-A713-1A5C54F5C3F8}|hello\\hello.vbproj|solutionrelative:hello\\localgame.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3D2F7B-505C-45E5-A713-1A5C54F5C3F8}|hello\\hello.vbproj|C:\\Users\\user\\Downloads\\game\\hello\\localgame.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{FB3D2F7B-505C-45E5-A713-1A5C54F5C3F8}|hello\\hello.vbproj|solutionrelative:hello\\localgame.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3D2F7B-505C-45E5-A713-1A5C54F5C3F8}|hello\\hello.vbproj|C:\\Users\\user\\Downloads\\game\\hello\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{FB3D2F7B-505C-45E5-A713-1A5C54F5C3F8}|hello\\hello.vbproj|solutionrelative:hello\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3D2F7B-505C-45E5-A713-1A5C54F5C3F8}|hello\\hello.vbproj|C:\\Users\\user\\Downloads\\game\\hello\\onlinegame.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{FB3D2F7B-505C-45E5-A713-1A5C54F5C3F8}|hello\\hello.vbproj|solutionrelative:hello\\onlinegame.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3D2F7B-505C-45E5-A713-1A5C54F5C3F8}|hello\\hello.vbproj|C:\\Users\\user\\Downloads\\game\\hello\\onlinegame.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{FB3D2F7B-505C-45E5-A713-1A5C54F5C3F8}|hello\\hello.vbproj|solutionrelative:hello\\onlinegame.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3D2F7B-505C-45E5-A713-1A5C54F5C3F8}|hello\\hello.vbproj|c:\\users\\user\\downloads\\game\\hello\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{FB3D2F7B-505C-45E5-A713-1A5C54F5C3F8}|hello\\hello.vbproj|solutionrelative:hello\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 139,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LocalGame.vb",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\game\\hello\\LocalGame.vb",
+              "RelativeDocumentMoniker": "hello\\LocalGame.vb",
+              "ToolTip": "C:\\Users\\user\\Downloads\\game\\hello\\LocalGame.vb",
+              "RelativeToolTip": "hello\\LocalGame.vb",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAiwIYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-04T09:08:57.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LocalGame.vb [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\game\\hello\\LocalGame.vb",
+              "RelativeDocumentMoniker": "hello\\LocalGame.vb",
+              "ToolTip": "C:\\Users\\user\\Downloads\\game\\hello\\LocalGame.vb [\u8A2D\u8A08]",
+              "RelativeToolTip": "hello\\LocalGame.vb [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-04T09:08:57.506Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\game\\hello\\Form1.vb",
+              "RelativeDocumentMoniker": "hello\\Form1.vb",
+              "ToolTip": "C:\\Users\\user\\Downloads\\game\\hello\\Form1.vb",
+              "RelativeToolTip": "hello\\Form1.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-04T09:08:57.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\game\\hello\\Form1.vb",
+              "RelativeDocumentMoniker": "hello\\Form1.vb",
+              "ToolTip": "C:\\Users\\user\\Downloads\\game\\hello\\Form1.vb [\u8A2D\u8A08]",
+              "RelativeToolTip": "hello\\Form1.vb [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-04T09:08:57.609Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OnlineGame.vb",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\game\\hello\\OnlineGame.vb",
+              "RelativeDocumentMoniker": "hello\\OnlineGame.vb",
+              "ToolTip": "C:\\Users\\user\\Downloads\\game\\hello\\OnlineGame.vb",
+              "RelativeToolTip": "hello\\OnlineGame.vb",
+              "ViewState": "AQIAAEgBAAAAAAAAAAAgwP0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-04T09:08:57.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OnlineGame.vb [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\game\\hello\\OnlineGame.vb",
+              "RelativeDocumentMoniker": "hello\\OnlineGame.vb",
+              "ToolTip": "C:\\Users\\user\\Downloads\\game\\hello\\OnlineGame.vb [\u8A2D\u8A08]",
+              "RelativeToolTip": "hello\\OnlineGame.vb [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-06-04T09:08:57.61Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
